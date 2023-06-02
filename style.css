@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+
+.login{
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.logo{
+    width: 40%;
+}
+
+.entrar{
+    margin-right: 5px;
+}
+
+.cadastro{
+    color: #FF8800;
+    font-weight: 700;
+}
+
+.banner1{
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 0;
+}
